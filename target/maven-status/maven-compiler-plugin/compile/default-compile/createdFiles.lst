@@ -1,0 +1,11 @@
+co\javeriana\soap\ResultadoConsulta.class
+co\javeriana\soap\PagosInerface.class
+co\javeriana\model\Factura.class
+co\javeriana\soap\package-info.class
+co\javeriana\soap\ReferenciaFactura.class
+co\javeriana\soap\ObjectFactory.class
+co\javeriana\model\IdFactura.class
+co\javeriana\soap\Pago.class
+co\javeriana\soap\PagosService.class
+co\javeriana\soap\Resultado.class
+co\javeriana\service\Service.class

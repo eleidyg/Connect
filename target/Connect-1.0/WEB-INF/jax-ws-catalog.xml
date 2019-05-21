@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://ec2-54-236-241-13.compute-1.amazonaws.com:8080/gas-service/PagosService?wsdl" uri="wsdl/ec2-54-236-241-13.compute-1.amazonaws.com_8080/gas-service/PagosService.wsdl"/>
+    <system systemId="http://ec2-54-236-241-13.compute-1.amazonaws.com:8080/gas-service/PagosService?wsdl=1" uri="wsdl/ec2-54-236-241-13.compute-1.amazonaws.com_8080/gas-service/PagosService.wsdl_1.wsdl"/>
+    <system systemId="http://ec2-54-236-241-13.compute-1.amazonaws.com:8080/gas-service/PagosService?xsd=1" uri="wsdl/ec2-54-236-241-13.compute-1.amazonaws.com_8080/gas-service/PagosService.xsd_1.xsd"/>
+</catalog>
